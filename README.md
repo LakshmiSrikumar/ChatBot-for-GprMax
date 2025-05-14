@@ -1,3 +1,1 @@
-"# ChatBot-for-GprMax" 
-"# ChatBot-for-GprMax" 
-"# ChatBot-for-GprMax" 
+# GSOC 2025  proposal 
